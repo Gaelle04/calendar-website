@@ -1,6 +1,6 @@
 # Bloom
 
-A soft, intentional life planner built with Angular. Includes a monthly calendar and agenda, personal events and appointments, study sessions and exams with countdowns, daily tasks and habits, and a dated journal with mood check-ins.
+A simple life planner built with Angular. Includes a monthly calendar and agenda, personal events and appointments, study sessions and exams with countdowns, daily tasks, and a dated journal with mood check-ins.
 
 ## Develop
 
@@ -21,6 +21,6 @@ Production files are generated in `dist/bloom/browser`. Serve that directory wit
 
 ## Your data
 
-Plans, tasks, daily habit checkmarks, and journal entries are saved in localStorage on the current browser and origin. Start with an empty calendar and add your own plans. Use **Export my space** for a JSON backup. Keep the same browser and server origin to retain access to your data. Clearing browser storage removes it. This version does not include account sync, external calendar integration, recurring events, or background notifications. Exam countdowns are shown inside the app.
+Plans, tasks, and journal entries are saved in localStorage on the current browser and origin. Start with an empty calendar and add your own plans. Use **Export my space** for a JSON backup. Keep the same browser and server origin to retain access to your data. Clearing browser storage removes it. This version does not include account sync, external calendar integration, recurring events, or background notifications. Exam countdowns are shown inside the app.
 
 Fonts and decorative illustrations are served locally; the app requires no API keys or external services. The decorative SVG illustrations are original project assets. Fonts are distributed by Fontsource under their included open font licenses.
